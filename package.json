@@ -1,0 +1,19 @@
+{
+  "name": "refill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conorboyle8/Refill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conorboyle8/Refill/issues"
+  },
+  "homepage": "https://github.com/Conorboyle8/Refill#readme"
+}
